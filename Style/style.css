@@ -1,0 +1,77 @@
+.quicksand-font{
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+*{
+    margin: 0px;
+}
+.body{
+    background-color: #F7F7F7;
+}
+
+
+/* shared style */
+.display-flex{
+    display: flex;
+}
+
+.btn-primary{
+
+}
+
+/* navbar style */
+
+.navbar{
+    justify-content: space-around;
+    margin-top: 37px;
+}
+
+.scl-name{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-left: 10px;
+    
+}
+.nav-logo{
+    align-items: center;
+}
+
+.nav-item{
+    list-style: none;
+}
+.nav-links{
+    gap: 32px;
+    align-items: center;
+}
+.nav-link{
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+#orange{
+    color: #FEA301;
+}
+
+#blue{
+    color: #01ACFD;
+}
+
+#green{
+    color: #05D4DF;
+}
+#purple{
+    color: #5D58EF;
+}
+
+.contact{
+    height: 50px;
+    width: 12.31rem;
+    border: none;
+    border-radius: 18px;
+    background-color: #FEA301;
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
