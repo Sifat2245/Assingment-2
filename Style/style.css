@@ -151,7 +151,7 @@ marquee{
 
 /* curriculum section style */
 .curriculum {
-    background-image: url(/assets/bg.png);
+    background-image: url(./assets/bg.png);
     background-repeat: repeat;
     max-width: 1920px;
 }
@@ -244,7 +244,7 @@ marquee{
     background-repeat: repeat;
     flex-direction: column;
     align-items: center;
-    background: url(/assets/bg.png), linear-gradient(0.00deg, rgba(254, 163, 1, 0.3),
+    background: url(./assets/bg.png), linear-gradient(0.00deg, rgba(254, 163, 1, 0.3),
             rgba(255, 255, 255, 0.3) 100%);
     background-repeat: repeat;
 }
