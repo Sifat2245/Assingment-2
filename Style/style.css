@@ -37,7 +37,7 @@ marquee {
 
 marquee {
     height: 20px;
-    width: 1280px;
+    width: 1230px;
     margin-left: 7px;
     /* background-color: #FEA301; */
 }
@@ -453,8 +453,8 @@ footer {
         /* margin: 10px 20px; */
     }
 
-    .marq {
-        width: 100%;
+    marquee {
+        width: 95%;
     }
 
     .marq>h5 {
@@ -487,7 +487,6 @@ footer {
         background-color: black;
         margin: 6px 0;
     }
-
     /* banner section */
     .banner-container {
         flex-direction: column-reverse;
